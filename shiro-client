@@ -1,0 +1,7 @@
+/static/**=anon
+/resources/**=anon
+/login=authc
+/signIn=anon
+/logout=logout
+/orders=authc
+/**=kickout,sysUser,anon
